@@ -1,6 +1,9 @@
 # Blender-Rain-Generator
 A simple addon that generates a collection of meshes which they represent rain drops for your Blender scenes.
 
+![Screenshot_1](https://user-images.githubusercontent.com/115552617/195372125-4bbe8f66-6229-44cf-91b4-912f2e8b7487.png)
+
+
 In order to install in Blender:
   Go Edit->Preferences
   
